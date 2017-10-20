@@ -1,4 +1,7 @@
 ## Ionic-3-Advanced-Todo-App
+features
+- caching service
+- speech recognation
 
 *This template does not work on its own*.
 
