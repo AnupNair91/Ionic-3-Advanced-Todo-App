@@ -10,7 +10,7 @@ To use this project, copy the files from this repository into a local folder and
 ### Ionic CLI:
 
 ```bash
-$ sudo npm install -g ionic cordova
+$ sudo npm install
 ```
 
 Then, to run it, cd into the folder and run:
