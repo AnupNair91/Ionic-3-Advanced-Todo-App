@@ -1,9 +1,9 @@
 ## Ionic-3-Advanced-Todo-App
-features
+features to implement.
 - caching service
 - speech recognation
+- cloud support
 
-*This template does not work on its own*.
 
 To use this project, copy the files from this repository into a local folder and install dependencies using the ionic cli.
 
